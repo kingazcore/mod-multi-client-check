@@ -10,8 +10,8 @@
 #        Default:    0 (nolimit)
 #                    1+ (count of max client  from same ip)
 
-Disallow.Multiple.Client = 0
+Disallow.Multiple.Client = 2
 
 # Announce the module when the player logs in?
 
-Disallow.Multiple.Client.Announce = 1
+Disallow.Multiple.Client.Announce = 0
